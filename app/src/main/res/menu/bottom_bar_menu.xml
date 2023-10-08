@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/birinciSayfa"
+        android:icon="@drawable/lira_icon"
+        android:title="Döviz" />
+    <item
+        android:id="@+id/ikinciSayfa"
+        android:icon="@drawable/calculator"
+        android:title="Hesap Makinesi" />
+</menu>
